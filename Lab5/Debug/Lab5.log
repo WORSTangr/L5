@@ -1,0 +1,6 @@
+﻿  Form1.cpp
+C:\Users\Angr\source\repos\Lab5\Form1.cpp(6,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_Main"
+C:\Users\Angr\source\repos\Lab5\Debug\Lab5.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1
